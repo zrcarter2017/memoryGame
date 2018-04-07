@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jelly_cc11.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "http://riseabovelifecoaching.com/wp-content/uploads/2017/04/jellyfish-1080x675.jpg",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "https://www.worldatlas.com/r/w728-h425-c728x425/upload/01/16/42/australian-box-jellyfish.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2016/08/19180012/gettyimages-516561693-800x533.jpg",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "https://ichef.bbci.co.uk/news/660/cpsprodpb/12FE3/production/_90559777_compasstimgray2013.jpg",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnJ1U3_K2DdvLXdQQfMV7a7izmW2hgaxREzlbWZhpZ9tbi5kHqBQ",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://i.ytimg.com/vi/-UZxEo8k894/maxresdefault.jpg",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "https://perryponders.files.wordpress.com/2015/06/20090907230522_jelly-fish-1.jpg",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "image": "http://d2yuxur7ng0ejv.cloudfront.net/wp-content/uploads/2015/08/bigstock-Jellyfish-In-Deep-Blue-Sea-79490395-758x505.jpg",
+    "occupation": "Adventurer",
+    "location": "California"
+  }
+]
